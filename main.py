@@ -20,3 +20,4 @@ def insert_product(title:str, price:float, description:str):
     conncetion.close()
 
 insert_product('product1',10.50,'this is a nice product')
+print()

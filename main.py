@@ -21,3 +21,7 @@ def insert_product(title:str, price:float, description:str):
 
 insert_product('product1',10.50,'this is a nice product')
 print()
+print("-"*80)
+
+def agent():
+    pass

@@ -1,1 +1,2 @@
-print("This is test code ")
+def add(a,b):
+    return a+b
